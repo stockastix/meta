@@ -1,0 +1,14 @@
+{
+  "name": "@stockastix/config",
+  "version": "0.0.1",
+  "description": "project wide configuration and documentation",
+  "main": "config.json",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stockastix/config.git"
+  },
+  "bugs": {
+    "url": "https://github.com/stockastix/config/issues"
+  },
+  "homepage": "https://github.com/stockastix/config#readme"
+}
