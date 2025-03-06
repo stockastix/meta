@@ -1,5 +1,5 @@
 {
-  "name": "@stockastix/config",
+  "name": "@stockastix/meta",
   "version": "0.0.1",
   "description": "project wide configuration and documentation",
   "main": "config.json",
