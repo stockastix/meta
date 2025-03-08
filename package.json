@@ -3,13 +3,15 @@
   "version": "0.0.1",
   "description": "project wide configuration and documentation",
   "main": "index.js",
+  "typings": "index.d.ts",
   "type": "module",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/stockastix/config.git"
+    "url": "git+https://github.com/stockastix/meta.git"
   },
   "bugs": {
-    "url": "https://github.com/stockastix/config/issues"
+    "url": "https://github.com/stockastix/meta/issues"
   },
-  "homepage": "https://github.com/stockastix/config#readme"
+  "homepage": "https://github.com/stockastix/meta#readme",
+  "files": ["index.d.ts"]
 }
