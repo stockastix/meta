@@ -1,5 +1,6 @@
 declare module '@stockastix/meta' {
-    export const PROJECT: string
-    export const HOSTNAME: string
-    export const URL: string 
+  export const PROJECT: string
+  export const HOSTNAME: string
+  export const URL: string
+  export const LOGO: string
 };
